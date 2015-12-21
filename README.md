@@ -1,0 +1,1 @@
+An implementation of Numerov's Method for various simple problems encountered I encountered in Chemistry 6510/6540 Homework Sets.
